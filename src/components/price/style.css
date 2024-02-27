@@ -1,0 +1,26 @@
+.price{
+    display: flex;
+    justify-content: center;
+}
+table {
+	width: 60%;
+	margin-bottom: 20px;
+	border: 1px solid #dddddd;
+	border-collapse: collapse; 
+    margin: 50px;
+}
+table th {
+	font-weight: bold;
+	padding: 5px;
+	background-color: #f3f3f3;
+	border: 1px solid #0a0a3f;
+    color: #0a0a3f;
+}
+table td {
+	border: 1px solid #0a0a3f;
+	padding: 5px;
+    color: #0a0a3f;
+}
+.cn{
+    text-align: center;
+}

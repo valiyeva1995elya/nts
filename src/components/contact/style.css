@@ -1,0 +1,21 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 65vh;
+}
+h4{
+    color: #0a0a3f;
+    font-size: 35px;
+    font-family: "Cormorant Garamond", serif;
+}
+.contact-text{
+    color: #0a0a3f;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 25px;
+}
+b{
+    font-size: 30px;
+    text-decoration: underline;
+}
